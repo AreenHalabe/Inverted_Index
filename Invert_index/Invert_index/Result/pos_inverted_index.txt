@@ -1,0 +1,472 @@
+artificial{
+1 : 1 , 
+}
+intelligence{
+1 : 2 , 
+}
+(ai){
+1 : 3 , 
+}
+might{
+1 : 4 , 
+}
+most{
+1 : 7 , 
+2 : 68 , 
+}
+important{
+1 : 8 , 
+2 : 69 , 
+}
+technology{
+1 : 9 , 
+2 : 60 , 
+}
+ever{
+1 : 11 , 
+}
+develop.{
+1 : 12 , 
+}
+ensuring{
+1 : 13 , 
+2 : 1 , 
+}
+safe{
+1 : 16 , 
+}
+used{
+1 : 18 , 72 , 113 , 
+2 : 4 , 
+}
+beneficially{
+1 : 19 , 
+}
+one{
+1 : 21 , 
+2 : 49 , 
+}
+best{
+1 : 24 , 
+}
+ways{
+1 : 25 , 
+}
+safeguard{
+1 : 28 , 
+}
+long-term{
+1 : 30 , 
+2 : 110 , 
+}
+future.
+despite{
+1 : 31 , 
+}
+impressive{
+1 : 33 , 
+}
+accomplishments,{
+1 : 34 , 
+}
+ais{
+1 : 35 , 
+}
+don’t{
+1 : 36 , 
+}
+always{
+1 : 37 , 
+}
+want{
+1 : 41 , 
+}
+them{
+1 : 42 , 
+}
+to.{
+1 : 43 , 
+}
+openai{
+1 : 45 , 
+}
+trained{
+1 : 46 , 
+}
+agent{
+1 : 48 , 
+}
+play{
+1 : 50 , 
+}
+coastrunners,{
+1 : 51 , 
+}
+they{
+1 : 52 , 91 , 
+}
+rewarded{
+1 : 53 , 
+}
+increasing{
+1 : 56 , 
+}
+its{
+1 : 57 , 
+2 : 26 , 
+}
+points,{
+1 : 58 , 
+}
+expecting{
+1 : 59 , 
+}
+incentivise{
+1 : 61 , 
+}
+finish{
+1 : 64 , 
+}
+race{
+1 : 66 , 
+}
+as{
+1 : 67 , 69 , 117 , 
+2 : 19 , 
+}
+fast{
+1 : 68 , 
+}
+possible.{
+1 : 70 , 
+}
+
+amazon{
+1 : 71 , 
+}
+ai{
+1 : 74 , 94 , 
+2 : 2 , 20 , 51 , 78 , 81 , 94 , 
+}
+screen{
+1 : 76 , 
+}
+resumés,{
+1 : 77 , 
+}
+thinking{
+1 : 78 , 
+}
+this{
+1 : 79 , 121 , 
+2 : 35 , 
+}
+would{
+1 : 80 , 
+}
+increase{
+1 : 81 , 
+}
+fairness{
+1 : 83 , 
+}
+efficiency{
+1 : 85 , 
+}
+their{
+1 : 87 , 141 , 
+}
+hiring{
+1 : 88 , 
+}
+process.{
+1 : 89 , 
+}
+instead,{
+1 : 90 , 
+}
+discovered{
+1 : 92 , 
+}
+was{
+1 : 95 , 122 , 
+}
+biased{
+1 : 96 , 
+}
+against{
+1 : 97 , 
+}
+women.{
+1 : 98 , 
+}
+penalised{
+1 : 100 , 
+}
+resumés{
+1 : 101 , 
+}
+containing{
+1 : 102 , 
+}
+words{
+1 : 103 , 
+}
+like{
+1 : 104 , 
+}
+"women's"{
+1 : 105 , 
+}
+"netball,"{
+1 : 107 , 
+}
+while{
+1 : 108 , 
+}
+favouring{
+1 : 109 , 
+}
+language{
+1 : 110 , 
+}
+more{
+1 : 111 , 
+2 : 22 , 
+}
+frequently{
+1 : 112 , 
+}
+by{
+1 : 114 , 
+}
+men,{
+1 : 115 , 
+}
+such{
+1 : 116 , 
+}
+"executed"{
+1 : 118 , 
+}
+"captured."{
+1 : 120 , 
+}
+not{
+1 : 123 , 
+}
+intended,{
+1 : 124 , 
+}
+but{
+1 : 125 , 
+2 : 76 , 
+}
+that{
+1 : 126 , 
+2 : 61 , 99 , 
+}
+may{
+1 : 127 , 
+}
+little{
+1 : 130 , 
+}
+comfort{
+1 : 131 , 
+}
+women{
+1 : 134 , 
+}
+whose{
+1 : 135 , 
+}
+applications{
+1 : 136 , 
+}
+were{
+1 : 137 , 
+}
+rejected{
+1 : 138 , 
+}
+because{
+1 : 139 , 
+}
+gender.{
+1 : 142 , 
+}
+benefit{
+2 : 6 , 
+}
+everyone{
+2 : 7 , 
+}
+already{
+2 : 9 , 
+}
+challenge,{
+2 : 11 , 
+}
+it's{
+2 : 13 , 
+}
+critical{
+2 : 14 , 
+}
+get{
+2 : 16 , 
+}
+right.{
+2 : 18 , 
+}
+becomes{
+2 : 21 , 
+}
+powerful,{
+2 : 23 , 
+}
+so{
+2 : 24 , 
+}
+does{
+2 : 25 , 
+}
+scope{
+2 : 27 , 
+}
+affecting{
+2 : 29 , 
+}
+our{
+2 : 30 , 
+}
+economy,{
+2 : 31 , 
+}
+politics,{
+2 : 32 , 
+}
+culture.{
+2 : 34 , 
+}
+potential{
+2 : 38 , 
+}
+either{
+2 : 41 , 
+}
+extremely{
+2 : 42 , 45 , 
+}
+good,{
+2 : 43 , 
+}
+or{
+2 : 44 , 
+}
+bad.{
+2 : 46 , 
+}
+hand,{
+2 : 50 , 74 , 
+}
+help{
+2 : 53 , 
+}
+us{
+2 : 54 , 63 , 
+}
+make{
+2 : 55 , 
+}
+advances{
+2 : 56 , 
+}
+science{
+2 : 58 , 
+}
+allow{
+2 : 62 , 
+}
+tackle{
+2 : 65 , 
+}
+world's{
+2 : 67 , 
+}
+problems.{
+2 : 70 , 
+}
+other{
+2 : 73 , 
+}
+powerful{
+2 : 75 , 
+}
+out-of-control{
+2 : 77 , 
+}
+systems{
+2 : 79 , 
+}
+misaligned{
+2 : 80 , 
+}
+result{
+2 : 83 , 
+}
+disaster{
+2 : 85 , 
+}
+humanity.{
+2 : 87 , 
+}
+given{
+2 : 88 , 
+}
+stakes,{
+2 : 90 , 
+}
+working{
+2 : 91 , 
+}
+towards{
+2 : 92 , 
+}
+beneficial{
+2 : 93 , 
+}
+high-priority{
+2 : 97 , 
+}
+cause{
+2 : 98 , 
+}
+recommend{
+2 : 101 , 
+}
+supporting,{
+2 : 102 , 
+}
+especially{
+2 : 103 , 
+}
+if{
+2 : 104 , 
+}
+you{
+2 : 105 , 
+}
+care{
+2 : 106 , 
+}
+about{
+2 : 107 , 
+}
+safeguarding{
+2 : 108 , 
+}
+future.{
+2 : 111 , 
+}

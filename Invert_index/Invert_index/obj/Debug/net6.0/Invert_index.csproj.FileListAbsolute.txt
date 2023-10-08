@@ -1,0 +1,15 @@
+D:\Mobail\Invert_index\Invert_index\bin\Debug\net6.0\Invert_index.exe
+D:\Mobail\Invert_index\Invert_index\bin\Debug\net6.0\Invert_index.deps.json
+D:\Mobail\Invert_index\Invert_index\bin\Debug\net6.0\Invert_index.runtimeconfig.json
+D:\Mobail\Invert_index\Invert_index\bin\Debug\net6.0\Invert_index.dll
+D:\Mobail\Invert_index\Invert_index\bin\Debug\net6.0\Invert_index.pdb
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.csproj.AssemblyReference.cache
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.AssemblyInfoInputs.cache
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.AssemblyInfo.cs
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.csproj.CoreCompileInputs.cache
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.dll
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\refint\Invert_index.dll
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.pdb
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\Invert_index.genruntimeconfig.cache
+D:\Mobail\Invert_index\Invert_index\obj\Debug\net6.0\ref\Invert_index.dll
